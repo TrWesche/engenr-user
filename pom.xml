@@ -77,7 +77,7 @@
                     <encoding>UTF-8</encoding>
                     <generatedSourcesDirectory>${project.build.directory}/generated-sources/</generatedSourcesDirectory>
                     <annotationProcessors>
-                        <processor>com.twesche.processors.ViewProcessor</processor>
+                        <processor>com.twesche.processors.EGRProcessor</processor>
                     </annotationProcessors>
                 </configuration>
             </plugin>
